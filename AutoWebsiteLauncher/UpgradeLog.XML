@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AutoWebsiteLauncher">
+</Property><Property Name="솔루션 파일" Value="G:\_MY_Data\AutoWebsiteLauncher\AutoWebsiteLauncher.sln">
+</Property><Property Name="사용자 옵션 파일" Value="G:\_MY_Data\AutoWebsiteLauncher\AutoWebsiteLauncher.suo">
+</Property><Property Name="Date" Value="2010년 9월 6일 월요일">
+</Property><Property Name="Time" Value="오전 11:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AutoWebsiteLauncher.sln" Description="파일을 G:\_MY_Data\AutoWebsiteLauncher\Backup\AutoWebsiteLauncher.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="AutoWebsiteLauncher.suo" Description="파일을 G:\_MY_Data\AutoWebsiteLauncher\Backup\AutoWebsiteLauncher.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoWebsiteLauncher" Source="AutoWebsiteLauncher\AutoWebsiteLauncher.csproj" Description="프로젝트 파일을 G:\_MY_Data\AutoWebsiteLauncher\Backup\AutoWebsiteLauncher\AutoWebsiteLauncher.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoWebsiteLauncher" Source="AutoWebsiteLauncher\Program.cs" Description="파일을 G:\_MY_Data\AutoWebsiteLauncher\Backup\AutoWebsiteLauncher\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoWebsiteLauncher" Source="AutoWebsiteLauncher\Properties\AssemblyInfo.cs" Description="파일을 G:\_MY_Data\AutoWebsiteLauncher\Backup\AutoWebsiteLauncher\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="AutoWebsiteLauncher" Source="AutoWebsiteLauncher\AutoWebsiteLauncher.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="AutoWebsiteLauncher" Source="AutoWebsiteLauncher\AutoWebsiteLauncher.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AutoWebsiteLauncher.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="AutoWebsiteLauncher.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AutoWebsiteLauncher" Source="AutoWebsiteLauncher\AutoWebsiteLauncher.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
